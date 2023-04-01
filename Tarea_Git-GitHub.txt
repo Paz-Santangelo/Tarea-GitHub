@@ -1,0 +1,33 @@
+1. Generar un archivo de texto con sus datos personales, donde expliciten cómo están transitando la instancia de ingreso, qué experiencias positivas pueden comentar y cuáles obstáculos encontraron.
+
+2. ¿Podrías identificar, teniendo en cuenta el documento de Metodologías de estudio aplicadas al software, tres de las habilidades que se mencionan y que estas aplicando para realizar esta actividad?. Agrega tambien esa información dentro del documento solicitado.
+
+3. En el mismo documento solicitado agregar los comandos de git que han utilizado para esta actividad.
+
+
+1. DATOS PERSONALES:
+    * Nombre y Apellido: María de la Paz Santangelo.
+    * DNI: 34.670.617
+    * Ciudad de Residencia: La Falda.
+    * Correo electrónico: paz_santangelo@hotmail.com
+
+   EXPERIENCIAS ACERCA DE LA INSTANCIA DE INGRESO:
+    
+    * POSITIVAS: si bien, en un principio, se había entendido que la tecnicatura iba a ser virtual, considero que lo óptimo es que sea híbrida, considerando la complejidad de algunas materias y se puede llegar a requerir de la ayuda de uno de los profesores. Me ha gustado como han explicado los profes, principalmente con las metodologías ágiles, lo cual se me había dificultado comprender y en la penúltima clase, se me han aclarado muchas dudas.
+Considerando que soy hipoacúsica, todos han tenido una excelente predisposición a hablarme de frente y a poner el subtitulado en los meets, así que les estoy muy agradecida.
+
+    * NEGATIVAS: he notado que algunas clases, iban a un ritmo muy rápido, por ejemplo en la clase de GitHub con Google Colab. Considero que, lo ideal, sería tener un espacio de tiempo mínimo para que el profesor atienda cualquier dificultad que pudiéramos tener los alumnos y resolver la misma.
+Si bien, comprendo que el espacio edilicio no es lo óptimo, siendo éste poco amplio, me gustaría que en las siguientes clases hubiera un mayor número de mesas para la comodidad de todos con el uso de las notebooks o computadoras.
+
+2. Las tres habilidades cognitivas que me encuentro aplicando en esta actividad son: razonamiento, percepción y memoria. 
+
+3. COMANDOS UTILIZADOS EN GIT: 
+    a) git init
+    b) git remote add origin https://github.com/Paz-Santangelo/Tarea-GitHub.git
+    c) git status
+    d) git add .
+    e) git status
+    f) git commit -m "subiendo tarea git-github"
+    g) git push origin main 
+
+
