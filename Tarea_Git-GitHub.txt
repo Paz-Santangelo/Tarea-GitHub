@@ -28,6 +28,12 @@ Si bien, comprendo que el espacio edilicio no es lo óptimo, siendo éste poco a
     d) git add .
     e) git status
     f) git commit -m "subiendo tarea git-github"
-    g) git push origin main 
+    g) git push origin master
+    h) clear
+    i) git status
+    j) git add .
+    k) git status
+    l) git commit -m "modificacion de la rama en el comando del punto g"
+    m) git push origin master
 
 
